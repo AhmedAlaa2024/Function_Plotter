@@ -25,9 +25,6 @@ class Plotter():
 
     def plotFunction(self):
         xList, yList = self.generateFunctionPoints()
-        print("#################################################################################")
-        print(yList)
-        print("#################################################################################")
         plt.plot(xList, yList, color='green', linewidth=1.5, label=self.function)
         plt.xlabel("X")
         plt.ylabel("F(X)")

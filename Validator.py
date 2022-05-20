@@ -57,7 +57,6 @@ class Validator():
         maxValue = self.validateMaxValue(maxValue)
 
         if (minValue <= 0) and (formula.find("/x") != -1):
-            print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
             raise ValueError("Error 500: Division by zero! Minimum must be greater than zero for this formula.")
 
         if minValue >= maxValue:
