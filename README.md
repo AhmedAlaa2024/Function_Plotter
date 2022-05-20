@@ -65,27 +65,27 @@ Function_Plotter
  <li>
   <h4>Program Interface</h4>
   
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/1.jpeg)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/1.PNG)
 
  </li>
  <li>
   <h4>Function Field Validations</h4>
   
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/2.jpeg)
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/3.jpeg)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/2.PNG)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/3.PNG)
  </li>
  <li>
   <h4>Max&Min Fields Validations</h4>
   
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/4.jpeg)
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/5.jpeg)
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/6.jpeg)
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/7.jpeg)
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/8.jpeg)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/4.PNG)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/5.PNG)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/6.PNG)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/7.PNG)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/8.PNG)
  </li>
  
  <li> 
  <h4>Plotting Function Result</h4> 
-  <img src="https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/6.PNG">
+  <img src="https://github.com/AhmedAlaa2024/Function_Plotter/blob/main/screenshots/9.PNG">
  </li>
 </ol>
