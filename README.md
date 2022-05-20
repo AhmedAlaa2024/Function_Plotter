@@ -65,23 +65,23 @@ Function_Plotter
  <li>
   <h4>Program Interface</h4>
   
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/1.jpeg)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/9.jpeg)
 
  </li>
  <li>
   <h4>Function Field Validations</h4>
   
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/2.jpeg)
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/3.jpeg)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/1.jpeg)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/9.jpeg)
  </li>
  <li>
   <h4>Max&Min Fields Validations</h4>
   
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/2.jpeg)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/3.jpeg)
   ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/4.jpeg)
   ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/5.jpeg)
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/7.jpeg)
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/8.jpeg)
-  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/9.jpeg)
+  ![alt text](https://github.com/AhmedAlaa2024/Function_Plotter/screenshots/6.jpeg)
  </li>
  
  <li> 
